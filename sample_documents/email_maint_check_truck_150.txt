@@ -1,0 +1,17 @@
+From: Alice Jones <alice.jones@supriyatrucking.com>
+Sent: Monday, June 15, 2026 4:30 PM
+To: billing@supriyatrucking.com
+Subject: repair invoice check - unit 150
+
+Hi Billing,
+
+Just wanted to send over the details for the repair on Truck 150 from yesterday. 
+The mechanic at Irving Truck Center completed the exhaust gas recirculation (EGR) valve replacement.
+Total came to $1,200.00. 
+They charged $900.00 for the EGR valve parts and $300.00 for 3 hours of labor.
+The invoice date was 2026-06-14.
+They said they will email the official PDF invoice later, but I wanted to make sure this is logged in our system.
+
+Thanks,
+Alice Jones
+Driver #D3

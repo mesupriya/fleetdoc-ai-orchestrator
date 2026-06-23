@@ -1,0 +1,14 @@
+State of Texas
+Commercial Vehicle Registration Renewal Receipt
+Receipt Number: TX-REG-88220
+Issue Date: 2025-07-01
+Expiration Date: 2026-07-01
+
+Vehicle Information:
+Unit Number: Truck 150
+VIN: 5P3NC9EJ2NN4412
+License Plate: TX-TRK-150
+Gross Weight: 80,000 lbs
+
+Registration Fee: $320.00
+Status: ACTIVE

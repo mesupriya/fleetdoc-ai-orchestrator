@@ -1,0 +1,24 @@
+# Node dependencies
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Python caches & virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Databases and OS files
+*.db-journal
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

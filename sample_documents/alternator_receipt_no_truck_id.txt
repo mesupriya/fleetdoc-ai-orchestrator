@@ -1,0 +1,17 @@
+Dallas Parts Supply Shop
+1024 Elm St, Dallas TX
+TICKET #: DPS-99120
+Date: 2026-06-02
+
+Customer Account: Supriya Trucking
+Purchased By: John Smith
+Contact: John.Smith@supriyatrucking.com
+
+Items Purchased:
+1x Remanufactured Alternator (Part #ALT-Fre-102): $280.00
+1x Heavy Duty Serpentine Belt: $40.00
+
+Sales Tax: $0.00
+-----------------------------
+TOTAL PAID: $320.00
+Payment: Cash

@@ -1,0 +1,14 @@
+Pilot Travel Center #412
+I-35 Exit 82, Denton TX
+Date: 2026-06-10 14:22:10
+Sale #: SL-992011
+Driver ID: D2 (John Smith)
+Truck ID: 102
+Fuel Type: Diesel #2
+
+Product: Diesel
+Quantity: 110.00 Gallons
+Price per Gallon: $3.600
+Total Fuel Amount: $396.00
+Tax Paid: $35.40
+Payment Card: FleetOne ****4321
